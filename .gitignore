@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+cache/
+minio_data/
+chroma_db/
+reports/*.json
+.DS_Store
+Thumbs.db
